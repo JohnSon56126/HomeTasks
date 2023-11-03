@@ -1,0 +1,8 @@
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\obj\Debug\ConsoleApphifr1.csproj.AssemblyReference.cache
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\obj\Debug\ConsoleApphifr1.csproj.SuggestedBindingRedirects.cache
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\obj\Debug\ConsoleApphifr1.csproj.CoreCompileInputs.cache
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\bin\Debug\ConsoleApphifr1.exe.config
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\bin\Debug\ConsoleApphifr1.exe
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\bin\Debug\ConsoleApphifr1.pdb
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\obj\Debug\ConsoleApphifr1.exe
+D:\колледж\ConsoleApphifr1\ConsoleApphifr1\obj\Debug\ConsoleApphifr1.pdb
